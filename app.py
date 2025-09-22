@@ -1,7 +1,7 @@
 import os
 
 # 檔案分類規則
-file_types = {
+file_types = {  
     "Documents": [".pdf", ".doc", ".docx", ".txt"],
     "Images": [".jpg", ".jpeg", ".png", ".gif"],
     "Music": [".mp3", ".wav"],
